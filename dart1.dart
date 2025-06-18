@@ -30,17 +30,7 @@ dynamic value = "Hello";
 
 
 
-      //DATA TYPES 
-       // Declare an integer
-      int num1 = 2;
-    
-      // Declare a double value
-      double num2 = 1.5;
-    
-      // Print the integer and
-      // double values
-      print("$num1");
-      print("$num2");
+  
         
 }
 
